@@ -18,3 +18,6 @@ This repository contains my journey following the [roadmap.sh backend developer 
    ```bash
    git clone https://github.com/Thabangmontja/Backend-Developer-Roadmap.git
    cd Backend-Developer-Roadmap
+2. Run the task Tracker:
+   python beginner/task_tracker.py
+
